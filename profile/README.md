@@ -7,6 +7,12 @@
 [`atomeons.com`](https://atomeons.com) · [`i-am-ai`](https://github.com/AtomEons/i-am-ai) · [`Orange³`](https://github.com/Atom-Eons/Orange3) · [`AI Bookmaker`](https://github.com/AtomEons/BookMaker) · [`Discord`](https://discord.gg/4wx3AGga) · [`@AtomMccree`](https://x.com/AtomMccree)
 
 <p>
+  <a href="https://atomeons.com/api/live"><img alt="current wave" src="https://atomeons.com/api/badge/wave.svg"/></a>
+  <a href="https://atomeons.com"><img alt="lab" src="https://atomeons.com/api/badge/wave.svg?label=lab&value=marco-island-fl&color=10B981"/></a>
+  <a href="https://atomeons.com/handbook"><img alt="handbook" src="https://atomeons.com/api/badge/wave.svg?label=manual&value=%2Fhandbook&color=8B5CF6"/></a>
+</p>
+
+<p>
   <a href="https://github.com/AtomEons/i-am-ai/stargazers"><img alt="i-am-ai stars" src="https://img.shields.io/github/stars/AtomEons/i-am-ai?style=flat-square&label=i-am-ai&color=22F0D5&logo=github"/></a>
   <a href="https://github.com/AtomEons/i-am-ai-audiobook/stargazers"><img alt="audiobook stars" src="https://img.shields.io/github/stars/AtomEons/i-am-ai-audiobook?style=flat-square&label=audiobook&color=22F0D5&logo=github"/></a>
   <a href="https://github.com/Atom-Eons/Orange3/stargazers"><img alt="Orange3 stars" src="https://img.shields.io/github/stars/Atom-Eons/Orange3?style=flat-square&label=Orange%C2%B3&color=F97316&logo=github"/></a>
