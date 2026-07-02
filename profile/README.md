@@ -6,6 +6,22 @@
 
 [`atomeons.com`](https://atomeons.com) · [`i-am-ai`](https://github.com/AtomEons/i-am-ai) · [`Orange³`](https://github.com/Atom-Eons/Orange3) · [`AI Bookmaker`](https://github.com/AtomEons/BookMaker) · [`Discord`](https://discord.gg/4wx3AGga) · [`@AtomMccree`](https://x.com/AtomMccree)
 
+<p>
+  <a href="https://github.com/AtomEons/i-am-ai/stargazers"><img alt="i-am-ai stars" src="https://img.shields.io/github/stars/AtomEons/i-am-ai?style=flat-square&label=i-am-ai&color=22F0D5&logo=github"/></a>
+  <a href="https://github.com/AtomEons/i-am-ai-audiobook/stargazers"><img alt="audiobook stars" src="https://img.shields.io/github/stars/AtomEons/i-am-ai-audiobook?style=flat-square&label=audiobook&color=22F0D5&logo=github"/></a>
+  <a href="https://github.com/Atom-Eons/Orange3/stargazers"><img alt="Orange3 stars" src="https://img.shields.io/github/stars/Atom-Eons/Orange3?style=flat-square&label=Orange%C2%B3&color=F97316&logo=github"/></a>
+  <a href="https://github.com/Atom-Eons/atomeons-com/stargazers"><img alt="atomeons.com stars" src="https://img.shields.io/github/stars/Atom-Eons/atomeons-com?style=flat-square&label=atomeons.com&color=8B5CF6&logo=github"/></a>
+  <a href="https://github.com/AtomEons/BookMaker/stargazers"><img alt="BookMaker stars" src="https://img.shields.io/github/stars/AtomEons/BookMaker?style=flat-square&label=AI%20Bookmaker&color=0EA5E9&logo=github"/></a>
+</p>
+
+<p>
+  <img alt="Covenant" src="https://img.shields.io/badge/covenant-%C2%A74A%20no--SaaS-22F0D5?style=flat-square"/>
+  <img alt="License" src="https://img.shields.io/badge/docs-CC--BY%204.0-8B5CF6?style=flat-square"/>
+  <img alt="Location" src="https://img.shields.io/badge/lab-Marco%20Island%20%C2%B7%20FL-10B981?style=flat-square"/>
+  <img alt="Operator" src="https://img.shields.io/badge/operator-solo%20%C2%B7%20no%20VC-F97316?style=flat-square"/>
+  <img alt="Model" src="https://img.shields.io/badge/co--author-Claude%20Opus%204.7-0EA5E9?style=flat-square"/>
+</p>
+
 </div>
 
 ---
