@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="AtomEons Systems Laboratory · Marco Island · FL · 2026" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050708"/>
+      <stop offset="1" stop-color="#0A0F12"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22F0D5"/>
+      <stop offset="1" stop-color="#0DBFA8"/>
+    </linearGradient>
+    <filter id="scan" x="0" y="0" width="100%" height="100%">
+      <feFlood flood-color="#22F0D5" flood-opacity="0.03"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#22F0D5" fill-opacity="0.04"/>
+    </pattern>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 L 0 0 0 24" fill="none" stroke="#22F0D5" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#scanlines)"/>
+
+  <!-- corner brackets · terminal chrome -->
+  <g stroke="#22F0D5" stroke-width="1.5" fill="none" opacity="0.7">
+    <path d="M28,28 L28,64 M28,28 L64,28"/>
+    <path d="M1172,28 L1172,64 M1172,28 L1136,28"/>
+    <path d="M28,312 L28,276 M28,312 L64,312"/>
+    <path d="M1172,312 L1172,276 M1172,312 L1136,312"/>
+  </g>
+
+  <!-- top status bar -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#8E969D" letter-spacing="0.12em">
+    <text x="80" y="52">::atomeons systems laboratory · v1.4 · 2026-07-02</text>
+    <text x="1120" y="52" text-anchor="end">STATUS: LIVE</text>
+  </g>
+  <circle cx="1085" cy="48" r="3.5" fill="#22F0D5">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- wordmark -->
+  <text x="80" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="300" fill="#F4F4F2" letter-spacing="-0.03em">
+    AtomEons
+  </text>
+
+  <!-- tagline with typewriter cursor -->
+  <text x="82" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#B5BBC0">
+    one operator · one lab · one book · one sovereign OS
+  </text>
+
+  <!-- terminal prompt line -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">
+    <text x="82" y="238" fill="#8E969D">atom@marco-island</text>
+    <text x="245" y="238" fill="#22F0D5">:</text>
+    <text x="252" y="238" fill="#8E969D">~/AtomEons</text>
+    <text x="349" y="238" fill="#22F0D5">$</text>
+    <text x="365" y="238" fill="#F4F4F2">ls ./products/</text>
+  </g>
+
+  <!-- output line -->
+  <text x="82" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#B5BBC0">
+    Orange³  AI-Bookmaker  I-Am-AI  I-Am-AI-audiobook
+  </text>
+
+  <!-- next prompt with blinking cursor -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">
+    <text x="82" y="296" fill="#8E969D">atom@marco-island</text>
+    <text x="245" y="296" fill="#22F0D5">:</text>
+    <text x="252" y="296" fill="#8E969D">~/AtomEons</text>
+    <text x="349" y="296" fill="#22F0D5">$</text>
+  </g>
+  <rect x="365" y="284" width="9" height="16" fill="#22F0D5">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- right-side badges / meta -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.16em" fill="#B5BBC0">
+    <text x="1120" y="120" text-anchor="end">§4A · NO-SAAS</text>
+    <text x="1120" y="140" text-anchor="end">CC-BY 4.0</text>
+    <text x="1120" y="160" text-anchor="end">FREE ALWAYS</text>
+    <text x="1120" y="180" text-anchor="end">LOCAL-FIRST</text>
+    <text x="1120" y="200" text-anchor="end">MARCO ISLAND · FL</text>
+  </g>
+
+  <!-- decorative circle · sun -->
+  <g opacity="0.4">
+    <circle cx="1080" cy="260" r="34" fill="none" stroke="url(#cyan)" stroke-width="1"/>
+    <circle cx="1080" cy="260" r="26" fill="none" stroke="url(#cyan)" stroke-width="0.6"/>
+    <circle cx="1080" cy="260" r="18" fill="url(#cyan)" fill-opacity="0.15"/>
+  </g>
+
+  <!-- bottom operator line -->
+  <text x="80" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#6B6F72" letter-spacing="0.2em">
+    ATOM MCCREE · SOLO OPERATOR · A.MCCREE@GMAIL.COM · @ATOMMCCREE
+  </text>
+</svg>

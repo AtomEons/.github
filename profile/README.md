@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-    █                                                                █
-    █      ▄▀█ ▀█▀ █▀█ █▀▄▀█ █▀▀ █▀█ █▄░█ █▀        Marco Island   █
-    █      █▀█ ░█░ █▄█ █░▀░█ ██▄ █▄█ █░▀█ ▄█             · FL ·    █
-    █                                                                █
-    █        ▁▁▁▁▁▁ SYSTEMS LABORATORY · 2026 ▁▁▁▁▁▁                █
-    █                                                                █
-    █    a solo, operator-owned AI lab · §4A no-SaaS · free always  █
-    █                                                                █
-    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+![AtomEons Systems Laboratory · Marco Island · FL · 2026 · terminal-chrome SVG hero with animated cyan cursor and pulse LED](https://raw.githubusercontent.com/AtomEons/.github/main/profile/hero.svg)
 
 **one operator · one lab · one book · one sovereign OS · one covenant**
 
